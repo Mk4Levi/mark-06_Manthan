@@ -50,12 +50,10 @@ button {
     margin: auto;
     outline: none;
     cursor: pointer;
-    /* background-color: var(--primary);
-    border: none;
-    margin: 1rem 0rem;
-    padding: 1rem 2rem;
-    font-family: 'Kalam', cursive;
-    font-size: large; */
+}
+
+button :hover {
+    background-color: rgb(75, 55, 255);
 }
 
 
