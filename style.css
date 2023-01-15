@@ -38,12 +38,13 @@ textarea {
     font-family: inherit;
 }
 
-button {
+#btn-translate {
     padding: 1rem 2rem;
     width: max-content;
     font-weight: 700;
     font-size: small;
-    background-color: transparent;
+    /* background-color: transparent; */
+    background-color: aquamarine;
     color: var(--primary-lack);
     border-radius: 7px;
     border-color: var(--primary-lack);
@@ -52,7 +53,7 @@ button {
     cursor: pointer;
 }
 
-button :hover {
+#btn-translate :hover {
     background-color: rgb(75, 55, 255);
 }
 
