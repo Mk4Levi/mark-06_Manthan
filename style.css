@@ -44,7 +44,7 @@ textarea {
     font-weight: 700;
     font-size: small;
     /* background-color: transparent; */
-    background-color: aquamarine;
+    background-color: rgb(155, 247, 255);
     color: var(--primary-lack);
     border-radius: 7px;
     border-color: var(--primary-lack);
@@ -53,8 +53,9 @@ textarea {
     cursor: pointer;
 }
 
-#btn-translate :hover {
-    background-color: rgb(75, 55, 255);
+#btn-translate:hover {
+    background-color: blue;
+    color: var(--primary-blue);
 }
 
 
